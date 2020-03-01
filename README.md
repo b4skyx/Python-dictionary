@@ -1,5 +1,4 @@
-Just an attempt to create a console dictionary with similar word search.
+A cli dictionary with similar word suggestion.
 
-Dependancies
-
+Dependancies:
 Json, difflib
